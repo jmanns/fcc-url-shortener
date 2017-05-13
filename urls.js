@@ -21,9 +21,9 @@ const add = url => {
   const shortUrl = {
     original: url,
     short: id,
-    shortLink: `http://fcc-short-url.herokuapp.com/${id}`
+    shortLink: `http://fcc-short-link.herokuapp.com/${id}`
   }
-  
+
   urls.push(shortUrl)
   saveUrls(urls)
   
