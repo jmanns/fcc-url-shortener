@@ -10,6 +10,8 @@
   "author": "Jason Manns",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "shortid": "^2.2.8",
+    "valid-url": "^1.0.9"
   }
 }
